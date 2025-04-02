@@ -1,4 +1,4 @@
-# Lab 2: Titanic Dataset Analysis: Data - Inspect, Explore, Split 
+# Lab 3 – Predicting a Categorical Target and Evaluating Performance - Titanic Dataset
 **Author:** Mhamed  
 **Date:** 03, 21, 2025 
  
