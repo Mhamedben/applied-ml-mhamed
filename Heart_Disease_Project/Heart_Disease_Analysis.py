@@ -63,3 +63,6 @@ plt.xlabel('Resting Blood Pressure (mm Hg)')
 plt.ylabel('Frequency')
 plt.show()
 
+
+# Summary statistics
+print(df.describe())
