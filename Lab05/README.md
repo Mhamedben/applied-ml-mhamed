@@ -1,4 +1,4 @@
-# Wine Quality Classification with Ensemble Machine Learning
+# Lab 5: Ensemble Machine Learning – Wine Dataset
 
 **Author:** Mhamed  
 **Date:** 04, 10, 2025 
