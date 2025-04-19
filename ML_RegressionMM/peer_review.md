@@ -1,6 +1,6 @@
 # Peer Review of Medical Cost Regression Notebook by Eric Meyer
 
-**Notebook**: [Titanic Survival Classification Notebook](https://github.com/ericmeyer1/ml_regression_eric/blob/main/ml_regression_eric.ipynb) 
+**Notebook**: [Regression Analysis - Medical Costs Notebook](https://github.com/ericmeyer1/ml_regression_eric/blob/main/ml_regression_eric.ipynb) 
 
 **Reviewer**: Mhamed Maatou  
 **Date**: April 18, 2025
